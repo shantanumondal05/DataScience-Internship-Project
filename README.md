@@ -10,14 +10,6 @@ Source: [Kaggle - Sample Superstore Dataset](https://www.kaggle.com/datasets/viv
 File Name:Sample - Superstore.csv`
 Description: Retail sales data containing transactions, dates, customer segments, and regional information.
 
- # Tech Stack
-Python 3.x 
-Pandas: Data manipulation and aggregation.
-NumPy: Numerical operations.
-Matplotlib & Seaborn: Static and statistical data visualization.
-
-
-
 # Key Features & Insights
 The analysis covers the following business questions:
 1.  Sales KPIs:Calculation of Total Sales and Average Order Value.
@@ -32,3 +24,13 @@ The script automatically generates and displays the following charts:
 2. Monthly Sales Trend: A line chart showing the chronological sales progression.
 3. Sales Distribution: A histogram analyzing the frequency of transaction amounts.
 4. Sales Heatmap: A correlation matrix showing sales intensity by Month and Category.
+
+
+# Tech Stack
+1. Python 3.x 
+2. Pandas: Data manipulation and aggregation.
+3. NumPy: Numerical operations.
+4. Matplotlib & Seaborn: Static and statistical data visualization.
+
+
+
