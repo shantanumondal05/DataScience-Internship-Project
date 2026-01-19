@@ -6,9 +6,9 @@ This project is a comprehensive data analysis of the Sample Superstore Dataset. 
 The script performs data cleaning, calculates key performance indicators (KPIs), and generates visual insights to assist in business decision-making.
 
 # Dataset
-Source: [Kaggle - Sample Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
-File Name:Sample - Superstore.csv`
-Description: Retail sales data containing transactions, dates, customer segments, and regional information.
+1. Source: [Kaggle - Sample Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+2. File Name:Sample - Superstore.csv
+3. Description: Retail sales data containing transactions, dates, customer segments, and regional information.
 
 # Key Features & Insights
 The analysis covers the following business questions:
