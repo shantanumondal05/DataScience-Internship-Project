@@ -26,11 +26,6 @@ The script automatically generates and displays the following charts:
 4. Sales Heatmap: A correlation matrix showing sales intensity by Month and Category.
 
 
-# Tech Stack
-1. Python 3.x 
-2. Pandas: Data manipulation and aggregation.
-3. NumPy: Numerical operations.
-4. Matplotlib & Seaborn: Static and statistical data visualization.
 
 
 
