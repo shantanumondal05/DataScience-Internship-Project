@@ -1,0 +1,18 @@
+# Jupyter Notebooks
+# Ignore auto-save backup folders
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python Junk 
+# Ignore compiled files
+__pycache__/
+*.pyc
+
+# System Files
+# Ignore Mac/Windows folder settings
+.DS_Store
+Thumbs.db
+
+# Safety Note
+#  NOT ignoring *.csv because  project 
+# requires the dataset to run.
