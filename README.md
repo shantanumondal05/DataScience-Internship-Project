@@ -25,7 +25,7 @@ The analysis covers the following business questions:
 4. Sales vs Profit: A scatter plot showing the relationship between sales and profit across transactions.
 
 # Author
-Shantanu Mondal
+Shantanu Mondal  
 GitHub: https://github.com/shantanumondal05  
 LinkedIn:https://linkedin.com/in/shantanu-mondal-42785b32a    
 
