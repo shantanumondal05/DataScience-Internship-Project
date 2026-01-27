@@ -1,0 +1,5 @@
+Tech Requirements:
+ 1. Python 3.x 
+ 2. Pandas: Data manipulation and aggregation.
+ 3. NumPy: Numerical operations.
+ 4. Matplotlib & Seaborn: Static and statistical data visualization.
