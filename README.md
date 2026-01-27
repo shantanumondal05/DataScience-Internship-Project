@@ -26,8 +26,8 @@ The analysis covers the following business questions:
 
 # Author
 Shantanu Mondal
-GitHub: (https://github.com/shantanumondal05)
-LinkedIn:(https://linkedin.com/in/shantanu-mondal-42785b32a)
+GitHub: https://github.com/shantanumondal05  
+LinkedIn:https://linkedin.com/in/shantanu-mondal-42785b32a    
 
 
 
